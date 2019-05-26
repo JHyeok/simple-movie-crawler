@@ -4,6 +4,7 @@
   "description": "",
   "main": "main.js",
   "scripts": {
+    "start": "node movie-crawler.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
